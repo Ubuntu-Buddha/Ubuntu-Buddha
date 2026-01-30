@@ -9,10 +9,6 @@ Systems engineer building financial infrastructure, trading systems, and AI inte
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 📊 GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ubuntu-Buddha&theme=dark)](https://github.com/readme-streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubuntu-Buddha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### What I Build
 
 **Solana Infrastructure** — Transaction pipelines, real-time data feeds, PDA utilities (Rust, TypeScript)
